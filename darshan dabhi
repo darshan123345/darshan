@@ -1,0 +1,31 @@
+<<html>
+<head>
+<title>mark table</title>
+</head>
+<body>
+<table border="2">
+	<tr>
+	<th>sr no.</th>
+	<th>subject</th>
+	<th>date</th>
+	<th>marks</th>
+	</tr>
+		<tr>
+	<td>01</td>
+	<td>maths</td>
+	<td>12/12/2023</td>
+	<td>80</td>
+	</tr>
+		<tr>
+	<td>02</td>
+	<td>bcp</td>
+	<td>15/12/2023</td>
+	<td>75</td>
+	</tr>
+		<tr>
+	<td>03</td>
+	<td>foee</td>
+	<td>18/12/2023</td>
+	<td>89</td>
+	</tr>
+		<tr>
